@@ -8,7 +8,7 @@ match "/makeup" => "static_pages#makeup"
 match "/novalash" => "static_pages#novalash"
 match "/microzone" => "static_pages#microzone"
 match "/other" => "static_pages#other"
-match "/about" => "static_pages#about"
+match "/gallery" => "static_pages#gallery"
 root :to => "static_pages#index"
   # The priority is based upon order of creation:
   # first created -> highest priority.
