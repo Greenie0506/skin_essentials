@@ -74,7 +74,7 @@ a:hover{
 #logo{
   background-color:#2B1528;
   width:450px;
-  height: 150px;
+  height: 150sqlite3;
   float:left;
   margin-left: 30px;
 }
@@ -178,6 +178,11 @@ a:hover{
   margin-top:10px;
 }
 
+a {
+  color: #3c284a;
+}
+
+
 #info{
   padding-top: 5px;
   width:300px;
@@ -212,7 +217,7 @@ list-style:none;}
 #facial_2{
   padding:15px;
   width:870px;
-  min-height:430px;
+  min-height:450px;
   background:#d6cdda;
   margin-left:30px;
   -moz-border-radius: 10px;
@@ -284,5 +289,7 @@ h1{
   padding:15px;
 }
 
-
-
+.chelsea {
+  width: 40%;
+  height: 40%;
+}
